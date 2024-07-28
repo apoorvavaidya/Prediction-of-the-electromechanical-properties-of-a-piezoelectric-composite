@@ -1,0 +1,1 @@
+# Prediction-of-the-electromechanical-properties-of-a-piezoelectric-composite
